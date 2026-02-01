@@ -1,5 +1,7 @@
 
-    1percent-finance/
+  💸 1% de frais vs PayPal (3.5%). Algorithme open-source pour les transferts internationaux optimaux, conçu depuis l'Afrique.
+
+  1percent-finance/
 ├── README.md                    
 ├── LICENSE                      # Licence (MIT recommandé)
 ├── .github/
@@ -76,3 +78,58 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+🚀 1Percent - Redéfinir les transferts d'argent à 1% de frais
+
+Problème : PayPal (3.5%), Stripe (2.9%+0.30€), Western Union (8-12%) prennent trop.
+Solution : Nexus Core, algorithme open-source qui scanne 20+ corridors en temps réel pour trouver systématiquement le chemin le plus rapide et le moins cher.
+
+✨ Envoyez 100€, payez 1€ de frais seulement (vs 3.50€ PayPal).
+🌍 Focus corridors Europe → Afrique avec intégration Mobile Money native.
+🧠 Algorithme qui sacrifie notre marge pour votre optimisation.
+
+Pour la diaspora, les créateurs, les entrepreneurs. 
+Parce que votre argent devrait arriver en entier.
+
+🔗 Site : https://site-tbnf2ydge.godaddysites.com
+
+💰 1% de frais vs 3.5% PayPal. Algo open-source pour transferts intelligents. Né à Kinshasa, pour le monde.
+
+⚡ Open-source payment routing algorithm (Nexus Core) finding optimal corridors in real-time. 1% fees vs 3.5% industry standard. Built for Africa-Europe remittances with Mobile Money integration.
+topics:
+  - fintech
+  - payments
+  - remittances
+  - africa-tech
+  - algorithm
+  - open-source
+  - mobile-money
+  - diaspora
+  - financial-inclusion
+## 💸 1Percent - 1% Fees vs PayPal's 3.5%
+
+**Problem:** PayPal takes 3.5%, Stripe takes 2.9%+€0.30, Western Union takes 8-12%.
+
+**Solution:** Nexus Core - open-source algorithm scanning 20+ payment corridors in real-time to systematically find the fastest & cheapest route.
+
+### ✨ Key Numbers
+- Send €100 → **€1 fee** with us vs **€3.50** with PayPal
+- **2.5x cheaper** than industry standard
+- Focus: **Europe → Africa** corridors with native Mobile Money integration
+
+### 🧠 How It Works
+
+### 🌍 Why This Matters
+- Built from **Kinshasa, DRC** for global remittances
+- **Transparent routing** vs opaque traditional systems
+- **Algorithm prioritizes customer savings** over our margins
+
+### 🚀 Current Status
+- ✅ Live fee comparator prototype
+- ✅ Landing page validation
+- 🔄 Seeking contributors & early adopters
+
+### 📞 Connect
+- Website: https://site-tbnf2ydge.godaddysites.com
+- Founder: Barack Ndenga (Kinshasa-based developer)
+
+*"If
